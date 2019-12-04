@@ -2,7 +2,7 @@
 import time
 
 # welcoming the user
-name = "Player 1"
+name = "Player"
 
 print("Hello," + name + "Time to play hangman!")
 
