@@ -1,2 +1,2 @@
 def test_dummy():
-    True
+    assert 3 == 5
