@@ -1,4 +1,3 @@
-#importing the time module
 import time
 
 #welcoming the user
